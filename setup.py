@@ -6,6 +6,6 @@ setup(
     description="A sample Python package",
     author="Root",
     author_email="rokvin99341@gmail.com",
-    packages=["my_package"],
+    packages=[],
     install_requires=[],
 )
